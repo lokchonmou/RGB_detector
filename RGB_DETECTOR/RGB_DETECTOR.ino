@@ -95,5 +95,3 @@ void printColour(){
   Serial.println();
   //delay(2000);
 }
-
-

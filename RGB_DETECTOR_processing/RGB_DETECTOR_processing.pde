@@ -48,5 +48,3 @@ void serialEvent(int serial) {
     buff = "";
   }
 } 
-
-
